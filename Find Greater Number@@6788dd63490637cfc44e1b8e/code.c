@@ -1,5 +1,15 @@
 #include<stdio.h>
 int main()
 {
-    printf("%d",10);
+    int a,b;
+    scanf("%d %d",&a,&b);
+    if(a>b)
+    {
+        printf("\n%d",a);
+    }
+    else
+    {
+        printf("\n%d",b);
+    }
+    return 0;
 }
