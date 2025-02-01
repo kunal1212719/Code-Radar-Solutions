@@ -2,14 +2,14 @@
 int main()
 {
     int a,b;
-    scanf("%d %d",&a,&b);
+    scanf("%d %d", &a, &b);
     if(a>b)
     {
-        printf("\n%d",a);
+        printf("%d\n", a);
     }
     else
     {
-        printf("\n%d",b);
+        printf("%d\n", b);
     }
     return 0;
 }
