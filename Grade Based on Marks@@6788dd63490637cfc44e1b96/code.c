@@ -21,7 +21,7 @@ int main()
     }
     else
     {
-        printf("f");
+        printf("F");
     }
     return 0;
 }
