@@ -2,12 +2,12 @@
 int main()
 {
     int a;
-    scanf("%d",&a);
-    if(a>0)
+    scanf("%d %d",&a,&b);
+    if(a>b)
     {
         printf("Profit");
     }
-    else if(a<0)
+    else if(a<b)
     {
         printf("Loss");
     }
