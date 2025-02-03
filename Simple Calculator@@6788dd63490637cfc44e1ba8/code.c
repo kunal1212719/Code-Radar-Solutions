@@ -11,8 +11,5 @@ int main()
     {
         printf("%d",c);
     }
-    else
-    {
-        printf("")
-    }
+   
 }
