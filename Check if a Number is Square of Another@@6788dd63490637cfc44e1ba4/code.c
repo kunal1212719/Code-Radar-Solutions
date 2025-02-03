@@ -11,5 +11,9 @@ int main()
     {
         printf("No");
     }
+    else
+    {
+        printf("No");    
+    }
     return 0;
 }
