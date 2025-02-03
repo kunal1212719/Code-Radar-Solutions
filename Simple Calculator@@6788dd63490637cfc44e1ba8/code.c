@@ -11,5 +11,17 @@ int main()
     {
         printf("%d",c);
     }
-   
+   else if(c=a*b)
+   {
+        printf("%d",c);
+   }
+   else if(c=a/b)
+   {
+        printf("%d",d);
+   }
+   else
+   {
+        printf("error");
+   }
+   return 0;
 }
