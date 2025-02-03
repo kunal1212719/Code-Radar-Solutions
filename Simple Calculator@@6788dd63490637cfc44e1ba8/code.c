@@ -17,7 +17,7 @@ int main()
    }
    else if(c=a/b)
    {
-        printf("%d",d);
+        printf("%d",c);
    }
    else
    {
