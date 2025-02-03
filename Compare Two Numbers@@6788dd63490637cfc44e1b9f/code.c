@@ -9,11 +9,11 @@ int main()
     }
     else if(a>b)
     {
-        printf("first");
+        printf("First");
     }
     else
     {
-        printf("second");
+        printf("Second");
     }
     return 0;
 }
