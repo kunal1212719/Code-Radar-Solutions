@@ -6,19 +6,19 @@ int main()
     {
         printf("Excellent");
     }
-    else if(i=='B')
+    else if(i='B')
     {
         printf("Good");
     }
-    else if(i=='C')
+    else if(i='C')
     {
         printf("Average");
     }
-    else if(i=='D')
+    else if(i='D')
     {
         printf("Below Average");
     }
-    else if(i=='f')
+    else if(i='f')
     {
         printf("Fail");
     }
