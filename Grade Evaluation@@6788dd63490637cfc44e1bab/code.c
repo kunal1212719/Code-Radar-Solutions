@@ -2,7 +2,7 @@
 int main()
 {
     char i;
-    if(i=='A')
+    if(i='A')
     {
         printf("Excellent");
     }
