@@ -2,6 +2,7 @@
 int main()
 {
     char i;
+    scanf("%c",&i);
     if(i='A')
     {
         printf("Excellent");
