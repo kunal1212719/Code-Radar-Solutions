@@ -11,13 +11,9 @@ int main()
     {
         printf("Negative");
     }
-    else if(a==0)
+    else (a==0)
     {
         printf("Zero");
-    }
-    else
-    {
-        printf("Invalid");
     }
     return 0;
 }
