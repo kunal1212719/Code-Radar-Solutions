@@ -15,5 +15,9 @@ int main()
     {
         printf("Zero");
     }
+    else
+    {
+        printf("invalid");
+    }
     return 0;
 }
