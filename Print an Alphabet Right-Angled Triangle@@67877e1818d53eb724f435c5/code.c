@@ -3,7 +3,7 @@ int main()
 {
     int i,j,n;
     char ch;
-    scanf("%d",&n);
+    scanf("%c",&n);
     for(i=1,i<=n;i++)
     ch='A';
     {
