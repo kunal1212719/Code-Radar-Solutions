@@ -7,7 +7,7 @@ int main()
     int l=strlen(str);
     for(int i=l-1;i>0;i--)
     {
-        strncat(st,&str[i],1;)
+        strncat(st,&str[i],1);
     }
     printf("%s",st);
 }
