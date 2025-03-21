@@ -7,4 +7,5 @@
      for(int i=l-1;i>=0;i--){
         strncat(st,&str[i],1);
      }
+     printf("%s",st);
  }
