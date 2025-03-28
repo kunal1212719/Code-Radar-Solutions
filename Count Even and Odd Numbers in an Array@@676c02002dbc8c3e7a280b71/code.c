@@ -12,11 +12,7 @@ int main()
     {
         if(i%2==0)
         {
-            printf("Even Number");
-        }
-        else
-        {
-            printf("Odd Number");
+            printf("%d",arr[i]);
         }
         return 0;
     }
